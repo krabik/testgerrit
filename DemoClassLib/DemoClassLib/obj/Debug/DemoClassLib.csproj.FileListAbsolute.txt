@@ -1,0 +1,5 @@
+C:\Users\tomash.wrzonski\git\DemoClassLib\DemoClassLib\bin\Debug\DemoClassLib.dll
+C:\Users\tomash.wrzonski\git\DemoClassLib\DemoClassLib\bin\Debug\DemoClassLib.pdb
+C:\Users\tomash.wrzonski\git\DemoClassLib\DemoClassLib\obj\Debug\DemoClassLib.csprojResolveAssemblyReference.cache
+C:\Users\tomash.wrzonski\git\DemoClassLib\DemoClassLib\obj\Debug\DemoClassLib.dll
+C:\Users\tomash.wrzonski\git\DemoClassLib\DemoClassLib\obj\Debug\DemoClassLib.pdb
