@@ -1,0 +1,7 @@
+C:\Users\tomash.wrzonski\gerrit\gerritgithub\MyClass\UT-Project\bin\Debug\UT-Project.dll
+C:\Users\tomash.wrzonski\gerrit\gerritgithub\MyClass\UT-Project\bin\Debug\UT-Project.pdb
+C:\Users\tomash.wrzonski\gerrit\gerritgithub\MyClass\UT-Project\bin\Debug\MyClass.dll
+C:\Users\tomash.wrzonski\gerrit\gerritgithub\MyClass\UT-Project\bin\Debug\MyClass.pdb
+C:\Users\tomash.wrzonski\gerrit\gerritgithub\MyClass\UT-Project\obj\Debug\UT-Project.csprojResolveAssemblyReference.cache
+C:\Users\tomash.wrzonski\gerrit\gerritgithub\MyClass\UT-Project\obj\Debug\UT-Project.dll
+C:\Users\tomash.wrzonski\gerrit\gerritgithub\MyClass\UT-Project\obj\Debug\UT-Project.pdb

@@ -1,0 +1,7 @@
+C:\Users\tomash.wrzonski\gerrit\gerritgithub\MyClass\Main\bin\Debug\Main.exe
+C:\Users\tomash.wrzonski\gerrit\gerritgithub\MyClass\Main\bin\Debug\Main.pdb
+C:\Users\tomash.wrzonski\gerrit\gerritgithub\MyClass\Main\bin\Debug\MyClass.dll
+C:\Users\tomash.wrzonski\gerrit\gerritgithub\MyClass\Main\bin\Debug\MyClass.pdb
+C:\Users\tomash.wrzonski\gerrit\gerritgithub\MyClass\Main\obj\x86\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\tomash.wrzonski\gerrit\gerritgithub\MyClass\Main\obj\x86\Debug\Main.exe
+C:\Users\tomash.wrzonski\gerrit\gerritgithub\MyClass\Main\obj\x86\Debug\Main.pdb
