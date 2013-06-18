@@ -18,6 +18,7 @@ namespace DemoClassLib
             return i * j;
         }
 
+        //substruct
         public int sub(int i, int j)
         {
             return i - j;
