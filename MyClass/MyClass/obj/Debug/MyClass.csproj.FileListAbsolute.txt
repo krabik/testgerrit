@@ -1,4 +1,0 @@
-C:\Users\tomash.wrzonski\gerrit\gerritgithub\MyClass\MyClass\bin\Debug\MyClass.dll
-C:\Users\tomash.wrzonski\gerrit\gerritgithub\MyClass\MyClass\bin\Debug\MyClass.pdb
-C:\Users\tomash.wrzonski\gerrit\gerritgithub\MyClass\MyClass\obj\Debug\MyClass.dll
-C:\Users\tomash.wrzonski\gerrit\gerritgithub\MyClass\MyClass\obj\Debug\MyClass.pdb
