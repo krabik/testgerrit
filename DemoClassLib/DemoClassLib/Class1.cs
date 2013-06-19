@@ -13,7 +13,7 @@ namespace DemoClassLib
             return i + j;
         }
 
-        //multiply
+        //multiply func
         public double multi(int i, int j)
         {
             return i * j;
