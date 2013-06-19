@@ -75,19 +75,20 @@ namespace TestProjectUT
         }
 
         /// <summary>
-        ///A test for multi
+        ///A test for multi func
         ///</summary>
         [TestMethod()]
         public void multiTest()
         {
             MyMathClass target = new MyMathClass(); // TODO: Initialize to an appropriate value
-            int i = 2; // TODO: Initialize to an appropriate value
+            int i = 3; // TODO: Initialize to an appropriate value
             int j = 5; // TODO: Initialize to an appropriate value
-            double expected = 10; // TODO: Initialize to an appropriate value
+            double expected = 15; // TODO: Initialize to an appropriate value
             double actual;
             actual = target.multi(i, j);
             Assert.AreEqual(expected, actual);
             //Assert.Inconclusive("Verify the correctness of this test method.");
+
         }
 
         /// <summary>
