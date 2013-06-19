@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010 
 
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoClassLib", "DemoClassLib\DemoClassLib.csproj", "{A6BD865D-FEC9-4F64-81D0-0A91866EE135}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_DemoClassLib", "_DemoClassLib\DemoClassLib.csproj", "{A6BD865D-FEC9-4F64-81D0-0A91866EE135}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
