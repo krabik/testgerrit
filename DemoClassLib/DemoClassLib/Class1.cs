@@ -7,7 +7,7 @@ namespace DemoClassLib
 {
     public class MyMathClass
     {
-        //sum
+        //sum total
         public int sum(int i, int j)
         {
             return i + j;
