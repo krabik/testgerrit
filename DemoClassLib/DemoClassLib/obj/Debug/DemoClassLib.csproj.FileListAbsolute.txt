@@ -5,6 +5,5 @@ C:\Users\tomash.wrzonski\git\DemoClassLib\DemoClassLib\obj\Debug\DemoClassLib.dl
 C:\Users\tomash.wrzonski\git\DemoClassLib\DemoClassLib\obj\Debug\DemoClassLib.pdb
 C:\Users\tomash.wrzonski\gerrit\testgerrit\DemoClassLib\DemoClassLib\bin\Debug\DemoClassLib.dll
 C:\Users\tomash.wrzonski\gerrit\testgerrit\DemoClassLib\DemoClassLib\bin\Debug\DemoClassLib.pdb
-C:\Users\tomash.wrzonski\gerrit\testgerrit\DemoClassLib\DemoClassLib\obj\Debug\DemoClassLib.csprojResolveAssemblyReference.cache
 C:\Users\tomash.wrzonski\gerrit\testgerrit\DemoClassLib\DemoClassLib\obj\Debug\DemoClassLib.dll
 C:\Users\tomash.wrzonski\gerrit\testgerrit\DemoClassLib\DemoClassLib\obj\Debug\DemoClassLib.pdb
