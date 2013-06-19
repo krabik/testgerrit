@@ -11,7 +11,7 @@ namespace DemoClassLib
         public int sum(int i, int j)
         {
             return i + j;
-        }
+        //}
 
         //multiply func
         public double multi(int i, int j)
