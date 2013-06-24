@@ -1,7 +1,6 @@
 ﻿using Gallio.Framework;
 using System;
 using MbUnit.Framework;
-using DemoClassLib;
 
 namespace TestProjectUT
 {
