@@ -72,6 +72,14 @@ namespace TestProjectUT
         {
             //Program target = new Program();
             //Assert.Inconclusive("TODO: Implement code to verify target");
+           
         }
+
+        [Test()]
+        public void MainTest()
+        {
+            Assert.IsTrue(true);
+        }
+
     }
 }
