@@ -16,7 +16,6 @@ namespace TestProjectUT
     public class ProgramTest
     {
 
-
         private TestContext testContextInstance;
 
         /// <summary>
