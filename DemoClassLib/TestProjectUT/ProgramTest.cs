@@ -71,6 +71,7 @@ namespace TestProjectUT
         [Test()]
         public int MainTest()
         {
+
             // Test if input arguments were supplied: 
             /* if (args.Length == 0)
             {
