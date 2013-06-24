@@ -82,7 +82,7 @@ namespace TestProjectUT
         [Test()]
         public void ProgramConstructorTest()
         {
-            //ogram target = new Program();
+            //Program target = new Program();
             //Assert.Inconclusive("TODO: Implement code to verify target");
         }
     }
