@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using DemoClassLib;
 
+
 namespace Main
 {
     class Program
     {
         static void Main(string[] args)
         {
-
+            //comment
             MyMathClass m = new MyMathClass();
 
             Console.WriteLine("Result: {0}", m.multi(5, 6));

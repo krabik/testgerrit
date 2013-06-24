@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace DemoClassLib
+﻿namespace DemoClassLib
 {
     public class MyMathClass
     {
-        //sum total
+        //sum total func
         public int sum(int i, int j)
         {
             return i + j;

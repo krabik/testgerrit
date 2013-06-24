@@ -8,7 +8,7 @@ namespace TestProjectUT
     
     
     /// <summary>
-    ///This is a test class for MyMathClassTest and is intended
+    ///This is a test class for MyMathClassTest and is intended 
     ///to contain all MyMathClassTest Unit Tests
     ///</summary>
     [TestFixture()]
