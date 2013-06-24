@@ -72,7 +72,8 @@ namespace TestProjectUT
         public void MainTest()
         {
             string[] args = null; // TODO: Initialize to an appropriate value
-           
+            if (args == null) throw new ArgumentNullException("args");
+
             //Program_Accessor.Main(args);
             //Assert.Inconclusive("A method that does not return a value cannot be verified.");
         }
