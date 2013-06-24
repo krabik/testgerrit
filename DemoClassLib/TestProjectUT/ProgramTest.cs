@@ -1,6 +1,7 @@
-﻿using Main;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Gallio.Framework;
+using Main;
 using System;
+using MbUnit.Framework;
 
 namespace TestProjectUT
 {
@@ -10,7 +11,7 @@ namespace TestProjectUT
     ///This is a test class for ProgramTest and is intended
     ///to contain all ProgramTest Unit Tests
     ///</summary>
-    [TestClass()]
+    [TestFixture]
     public class ProgramTest
     {
 
@@ -67,22 +68,21 @@ namespace TestProjectUT
         /// <summary>
         ///A test for Main
         ///</summary>
-        [TestMethod()]
-        [DeploymentItem("Main.exe")]
+        [Test()]
         public void MainTest()
         {
             string[] args = null; // TODO: Initialize to an appropriate value
-            Program_Accessor.Main(args);
+            //Program_Accessor.Main(args);
             //Assert.Inconclusive("A method that does not return a value cannot be verified.");
         }
 
         /// <summary>
         ///A test for Program Constructor
         ///</summary>
-        [TestMethod()]
+        [Test()]
         public void ProgramConstructorTest()
         {
-            Program target = new Program();
+            //ogram target = new Program();
             //Assert.Inconclusive("TODO: Implement code to verify target");
         }
     }

@@ -1,5 +1,6 @@
 ﻿using DemoClassLib;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Gallio.Framework;
+using MbUnit.Framework;
 using System;
 
 namespace TestProjectUT
@@ -10,7 +11,7 @@ namespace TestProjectUT
     ///This is a test class for MyMathClassTest and is intended
     ///to contain all MyMathClassTest Unit Tests
     ///</summary>
-    [TestClass()]
+    [TestFixture()]
     public class MyMathClassTest
     {
 
@@ -67,7 +68,7 @@ namespace TestProjectUT
         /// <summary>
         ///A test for MyMathClass Constructor
         ///</summary>
-        [TestMethod()]
+        [Test()]
         public void MyMathClassConstructorTest()
         {
             MyMathClass target = new MyMathClass();
@@ -77,7 +78,7 @@ namespace TestProjectUT
         /// <summary>
         ///A test for multi func
         ///</summary>
-        [TestMethod()]
+        [Test()]
         public void multiTest()
         {
             MyMathClass target = new MyMathClass(); // TODO: Initialize to an appropriate value
@@ -94,7 +95,7 @@ namespace TestProjectUT
         /// <summary>
         ///A test for sub
         ///</summary>
-        [TestMethod()]
+        [Test()]
         public void subTest()
         {
             MyMathClass target = new MyMathClass(); // TODO: Initialize to an appropriate value
@@ -110,7 +111,7 @@ namespace TestProjectUT
         /// <summary>
         ///A test for sum
         ///</summary>
-        [TestMethod()]
+        [Test()]
         public void sumTest()
         {
             MyMathClass target = new MyMathClass(); // TODO: Initialize to an appropriate value

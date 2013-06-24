@@ -7,4 +7,3 @@ C:\Users\tomash.wrzonski\gerrit\testgerrit\DemoClassLib\DemoClassLib\bin\Debug\D
 C:\Users\tomash.wrzonski\gerrit\testgerrit\DemoClassLib\DemoClassLib\bin\Debug\DemoClassLib.pdb
 C:\Users\tomash.wrzonski\gerrit\testgerrit\DemoClassLib\DemoClassLib\obj\Debug\DemoClassLib.dll
 C:\Users\tomash.wrzonski\gerrit\testgerrit\DemoClassLib\DemoClassLib\obj\Debug\DemoClassLib.pdb
-C:\Users\tomash.wrzonski\gerrit\testgerrit\DemoClassLib\DemoClassLib\obj\Debug\DemoClassLib.csprojResolveAssemblyReference.cache
