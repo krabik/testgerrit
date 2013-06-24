@@ -9,7 +9,8 @@ namespace Main
 {
     class Program
     {
-        static void Main(string[] args)
+        //static void Main(string[] args)
+        static void Main()
         {
             //comment
             MyMathClass m = new MyMathClass();

@@ -2,11 +2,12 @@
 using System;
 using Gallio.Framework;
 using MbUnit.Framework;
+using System.Collections.Generic;
 
 
 namespace TestProjectUT
 {
-   
+
     /// <summary>
     ///This is a test class for ProgramTest and is intended
     ///to contain all ProgramTest Unit Tests
@@ -68,13 +69,23 @@ namespace TestProjectUT
         ///A test for Main
         ///</summary>
         [Test()]
-        public void MainTest()
+        public int MainTest()
         {
-            string[] args = null; // TODO: Initialize to an appropriate value
-            if (args == null) return;
+            // Test if input arguments were supplied: 
+            /* if (args.Length == 0)
+            {
+                System.Console.WriteLine("Please enter a numeric argument.");
+                System.Console.WriteLine("Usage: Factorial <num>");
+                return 1;
+            } */
 
-            //Program_Accessor.Main(args);
-            //Assert.Inconclusive("A method that does not return a value cannot be verified.");
+            //List<int> myList = new List<int> { 0, 1, 2, 3, 4, 5, 6 };
+            //List<int> myList2 = new List<int> { 0, 1, 2, 3, 5, 4, 6 };
+
+            //Assert.AreElementsEqual(myList, myList2);
+            //Assert.AreElementsEqualIgnoringOrder(myList, myList2);
+
+            return 0;
         }
 
         /// <summary>
