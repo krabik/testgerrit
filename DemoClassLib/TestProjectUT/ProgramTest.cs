@@ -64,8 +64,6 @@ namespace TestProjectUT
         //
         #endregion
 
-
-
         /// <summary>
         ///A test for Program Constructor
         ///</summary>
