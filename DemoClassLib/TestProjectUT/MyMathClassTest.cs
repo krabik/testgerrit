@@ -15,7 +15,6 @@ namespace TestProjectUT
     public class MyMathClassTest
     {
 
-
         private TestContext testContextInstance;
 
         /// <summary>
