@@ -1,16 +1,14 @@
 ﻿using DemoClassLib;
 using Gallio.Framework;
 using MbUnit.Framework;
-using System;
 
 namespace TestProjectUT
 {
-
     /// <summary>
     ///This is a test class for MyMathClassTest and is intended 
     ///to contain all MyMathClassTest Unit Tests
     ///</summary>
-    [TestFixture()]
+    [TestFixture]
     public class MyMathClassTest
     {
 

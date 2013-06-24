@@ -6,8 +6,7 @@ using MbUnit.Framework;
 
 namespace TestProjectUT
 {
-    
-    
+   
     /// <summary>
     ///This is a test class for ProgramTest and is intended
     ///to contain all ProgramTest Unit Tests
