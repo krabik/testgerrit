@@ -80,7 +80,7 @@ namespace TestProjectUT
             MyMathClass target = new MyMathClass(); // TODO: Initialize to an appropriate value
             int i = 3; // TODO: Initialize to an appropriate value
             int j = 5; // TODO: Initialize to an appropriate value
-            double expected = 13; // TODO: Initialize to an appropriate value
+            double expected = 14; // TODO: Initialize to an appropriate value
             double actual;
             actual = target.multi(i, j);
             Assert.AreEqual(expected, actual);
