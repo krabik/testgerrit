@@ -65,29 +65,6 @@ namespace TestProjectUT
         #endregion
 
 
-        /// <summary>
-        ///A test for Main
-        ///</summary>
-        [Test()]
-        public int MainTest()
-        {
-
-            // Test if input arguments were supplied: 
-            /* if (args.Length == 0)
-            {
-                System.Console.WriteLine("Please enter a numeric argument.");
-                System.Console.WriteLine("Usage: Factorial <num>");
-                return 1;
-            } */
-
-            //List<int> myList = new List<int> { 0, 1, 2, 3, 4, 5, 6 };
-            //List<int> myList2 = new List<int> { 0, 1, 2, 3, 5, 4, 6 };
-
-            //Assert.AreElementsEqual(myList, myList2);
-            //Assert.AreElementsEqualIgnoringOrder(myList, myList2);
-
-            return 0;
-        }
 
         /// <summary>
         ///A test for Program Constructor
